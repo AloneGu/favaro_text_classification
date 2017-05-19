@@ -7,6 +7,12 @@
 
 official example from keras
 
+```
+check usage of text preprocessing
+
+python3 keras_text_process.py
+```
+
 ## my test
 
 under my_notebooks
@@ -24,7 +30,7 @@ under my_notebooks
 
 另一种方法是先padding，例如在前面补0，都变成定长向量。
 
-然后用 embedding 把向量变成矩阵， 然后接卷积层。:sweat_smile: ( 又可以cnn装逼了 :smirk: :smirk: :smirk: )
+然后用 embedding 把向量变成矩阵， 然后接卷积层。:neckbeard: ( 又可以cnn装逼了 :smirk: :smirk: :smirk: )
 
 关于 embedding 层的用法 http://keras-cn.readthedocs.io/en/latest/layers/embedding_layer/
 
