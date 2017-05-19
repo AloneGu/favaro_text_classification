@@ -36,3 +36,10 @@ under my_notebooks
 
 
 reuters那个数据集，xgb很慢，rf很快，和mlp比较，最后结果差不多。:sweat_smile:
+
+## sms test
+
+download a text dataset from https://www.kaggle.com/uciml/sms-spam-collection-dataset
+
+check my kernel :point_right: https://www.kaggle.com/jacklinggu/keras-mlp-cnn-test-for-text-classification/   :ghost: :ghost:
+
